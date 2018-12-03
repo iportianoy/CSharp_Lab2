@@ -1,0 +1,7 @@
+G:\Study\5 semester\C#\lab2\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+G:\Study\5 semester\C#\lab2\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+G:\Study\5 semester\C#\lab2\lab2\lab2\bin\Debug\lab2.exe.config
+G:\Study\5 semester\C#\lab2\lab2\lab2\bin\Debug\lab2.exe
+G:\Study\5 semester\C#\lab2\lab2\lab2\bin\Debug\lab2.pdb
+G:\Study\5 semester\C#\lab2\lab2\lab2\obj\Debug\lab2.exe
+G:\Study\5 semester\C#\lab2\lab2\lab2\obj\Debug\lab2.pdb
